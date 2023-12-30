@@ -1,4 +1,4 @@
-# C-algorithms-
+# Cpp-algorithms-
 Some of the basic algorithms in c++
 
 (currently working on this repo)
